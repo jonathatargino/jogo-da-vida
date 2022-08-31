@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta&family=Roboto+Mono&display=swap');
+
+
+/* HTML e Body */
+
+html {
+    font-family: 'Mukta', sans-serif;
+}
+
+body {
+    background: #ceebd1;
+}
+
+/* Containers */
+
+#canvas, .container {
+    display: block;
+    margin: 0 auto;
+}
+
+#canvas {
+    background: white;
+}
+
+.container {
+    height: 50px;
+    background: linear-gradient(135deg, #0e0036, #4c264b);
+    width: 800px;
+    border-radius: 0px 0px 5px 5px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.container button {
+    color: white;
+    font-size: 1.5rem;
+    list-style: none;
+    background: black;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    border-top: 1px solid white;
+    padding: 5px;
+}
+
+.container button:hover {
+    color: black;
+    background: white;
+    border: none;
+}
+
+.container i {
+    margin-right: 10px;
+}
