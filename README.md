@@ -1,6 +1,6 @@
 ![gif](https://github.com/jonathatargino/jogo-da-vida/blob/main/assets/jogo-da-vida-gif.gif)
 
-# Calculadora Divisora para Restaurantes
+# Jogo da Vida
 
 ## Sobre o Projeto
 O Jogo da vida é um projeto que simulam células vivas (pretas) e células inanimadas (brancas) e como elas agem de acordo com uma sequência de regras.
